@@ -1,0 +1,21 @@
+body {
+    background-color: #1f2122;
+    color: #f0f8ff;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.15;
+    margin: 8px;
+    overflow: hidden;
+}
+* {
+    user-select: none;
+}
+#content {
+    white-space: pre;
+    user-select: text;
+}
+a {
+    color: #ff75a2
+}
+#command {
+    color: #f0f8ff;
+}
